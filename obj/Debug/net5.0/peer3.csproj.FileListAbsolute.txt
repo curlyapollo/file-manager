@@ -1,0 +1,16 @@
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\obj\Debug\net5.0\peer3.csproj.AssemblyReference.cache
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\obj\Debug\net5.0\peer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\obj\Debug\net5.0\peer3.AssemblyInfoInputs.cache
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\obj\Debug\net5.0\peer3.AssemblyInfo.cs
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\obj\Debug\net5.0\peer3.csproj.CoreCompileInputs.cache
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\bin\Debug\net5.0\peer3.exe
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\bin\Debug\net5.0\peer3.deps.json
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\bin\Debug\net5.0\peer3.runtimeconfig.json
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\bin\Debug\net5.0\peer3.runtimeconfig.dev.json
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\bin\Debug\net5.0\peer3.dll
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\bin\Debug\net5.0\ref\peer3.dll
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\bin\Debug\net5.0\peer3.pdb
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\obj\Debug\net5.0\peer3.dll
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\obj\Debug\net5.0\ref\peer3.dll
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\obj\Debug\net5.0\peer3.pdb
+C:\Users\79653\RiderProjects\Мои пиры\peer3\peer3\obj\Debug\net5.0\peer3.genruntimeconfig.cache
